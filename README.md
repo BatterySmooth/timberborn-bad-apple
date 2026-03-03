@@ -6,7 +6,7 @@ With the addition of automation - in particular HTTP Levers and Indicators - to 
 
 I have also included the source code inside `src.zip` for anyone that wants to poke around and such.
 
-The version on this github repo is a slightly older version with fewer optimisations, so the framerate will be lower than on the YouTube video (https://youtu.be/nNB-Dwe72mk).
+The version on this github repo is a slightly older version with fewer optimisations, so the framerate will be lower than on the [YouTube video](https://youtu.be/nNB-Dwe72mk).
 
 ## Setup
 
