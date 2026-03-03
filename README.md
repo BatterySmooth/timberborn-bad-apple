@@ -4,6 +4,8 @@ It was inevitable...
 
 With the addition of automation - in particular HTTP Levers and Indicators - to Timberborn, we can now do vido playback with the help of some magic trickery.
 
+I have also included the source code inside `src.zip` for anyone that wants to poke around and such.
+
 ## Setup
 
 Please note, this has been built for Windows. I haven't checked it on Linux or MacOS, but I'm pretty sure it won't work for them (awww shucks)
